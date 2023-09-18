@@ -1,0 +1,11 @@
+---
+debug:
+  status: true
+  file:
+    status: true
+    path: C:\Windows\Tasks\log.txt
+communication:
+  api:
+    url: "http://localhost"
+  peer2peer:
+    timeout: 10
